@@ -1,0 +1,1 @@
+print("Not My First Rodeo")print("As yet untitled")density = 1000mass = 50Density = 9000# three main types of data""" 1. int = interger - whole number2. float = number with decimal 3. string = letters, texts, words, paragraphs"""# float gravity_m2_sq = 9.8 water_level_masl_ = 14.89# string fruit = "banana, apple, strawberry"
